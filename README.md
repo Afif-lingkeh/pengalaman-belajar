@@ -1,6 +1,8 @@
 # pengalaman-belajar
 
-01 september 2026
+**01 september 2026**<br>
 Belajar kelas Prompt Engineering untuk Software Developer
 * mengenal apa itu prompt engineering
 * belajar pola prompting
+
+
