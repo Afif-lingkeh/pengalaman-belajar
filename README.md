@@ -21,5 +21,7 @@ Masih melanjutkan kelas belajar dasar github
 * belajar mengatasi merge conflict
 
 **05 september 2026**<br>
-
+Masih melanjutkan kelas belajar dasar github
+* selesai mengumpulkan tugas ILT SS 1
+* belajar sebagai kolaborator di github
 
