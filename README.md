@@ -12,7 +12,12 @@ Menyelesaikan Kelas Prompt Engineering Dan mendapatkan sertifikatnya
 
 **03 september 2026**<br>
 Melanjutkan kelas Belajar Dasar Git Dengan Github
-* belajar cara melakukan commit
-* belajar cara membuat 
+* belajar cara commit
+* belajar membuat branch baru
+
+**04 september 2026**<br>
+Masih melanjutkan kelas belajar dasar github
+* belajar merge branch
+* belajar mengatasi merge conflict
 
 
