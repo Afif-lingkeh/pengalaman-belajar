@@ -25,5 +25,5 @@ melanjutkan belajar
 
 **09 september 2026**<br>
 masih melanjutkan belajar
-* belajar melaukan squshingmerge
+* belajar melakukan squashing merge
 
