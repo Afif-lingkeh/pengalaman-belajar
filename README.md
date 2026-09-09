@@ -20,4 +20,7 @@ Masih melanjutkan kelas belajar dasar github
 * belajar merge branch
 * belajar mengatasi merge conflict
 
+**05 september 2026**<br>
+malanjutkan belajar
+
 
