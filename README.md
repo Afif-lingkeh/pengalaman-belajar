@@ -20,4 +20,10 @@ Masih melanjutkan kelas belajar dasar github
 * belajar merge branch
 * belajar mengatasi merge conflict
 
+**05 september 2026**<br>
+melanjutkan belajar
+
+**09 september 2026**<br>
+masih melanjutkan belajar
+* belajar melakukan squashing merge
 
